@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplify2d7cb897": {}
+      },
+      "api": {
+        "amplify": {}
+      },
+      "storage": {
+        "s3f829d25d": {}
       }
     }
   }
